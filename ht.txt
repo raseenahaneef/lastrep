@@ -1,1 +1,2 @@
 this is a text that is in main branch
+this is a text that is in new branch
